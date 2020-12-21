@@ -2,4 +2,4 @@
 
 [Games](//)
 * Games
-  * [Games](/games.csv/)
+  * [Games](/game.csv/)
