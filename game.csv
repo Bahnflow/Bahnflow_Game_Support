@@ -1,6 +1,6 @@
-Game,Supported,IPv6 Support,IPv6 Native,IPv6 Only
-Minecraft,Yes,Yes,Yes
-Arma 3,Yes,No,No
-Counter-Strike: Global Offensive,Yes,No,No
-Ark: Survival Evolved,Yes,No,No
-Garrys Mod,Yes,No,No
+Game,Supported,IPv6 Support,IPv6 Native,IPv6 Only,
+Minecraft,Yes,Yes,Yes,
+Arma 3,Yes,No,No,
+Counter-Strike: Global Offensive,Yes,No,No,
+Ark: Survival Evolved,Yes,No,No,
+Garrys Mod,Yes,No,No,
